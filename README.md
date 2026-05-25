@@ -1,4 +1,5 @@
 Hi, I'm Ikechukwu Emmanuel Chidiebere👋
+---
 🛡️ Cybersecurity Enthusiast
 I'm actively building hands-on skills in Security Operations, threat detection, and incident response. This GitHub documents my real-world labs, investigations, and projects each one tackling problems that SOC analysts face every day.
 ---
