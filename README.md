@@ -26,6 +26,8 @@ I'm actively building hands-on skills in Security Operations, threat detection, 
 
 ## 🗂️ Portfolio Projects
 
+Link to my repo: https://github.com/Ikechukwuchidiebere/soc-analyst-portfolio/tree/main
+
 | # | Project | Skills Demonstrated | Status |
 |---|---------|-------------------|--------|
 | 01 | [Phishing Email Forensics](./soc-analyst-portfolio/Phase-1-Foundations/01-Phishing-Email-Forensics/) | Email header analysis, IOC extraction, VirusTotal | ✅ Complete |
